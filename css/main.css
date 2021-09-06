@@ -1,0 +1,9 @@
+body{
+    background-image:linear-gradient(to right, rgb(223, 151, 219) 60%,white);
+}
+.card{
+    background-color: beige;
+}
+.none{
+    display: none;
+}
